@@ -1,0 +1,22 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    display: grid;
+    height: 50vh;
+    justify-items: center;
+}
+
+#title {
+    font-size: 64px;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+#phaser-game {
+    align-self: center;
+    height: 50hv;
+    width: 800px;
+    zoom: 100%;
+}
